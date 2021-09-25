@@ -17,4 +17,4 @@ The requirement for the chatroom were:
 - Display all currently connected users
 - Delete one of our previous messages
 
-All groups in class are connected to the same Socket.io server. We could do Pull Request to the server code to add custom functionality to our code.
+All groups in class are connected to the same Socket.io server. We could do Pull Request to the server code to add custom functionality to our chat.
